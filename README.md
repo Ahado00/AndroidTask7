@@ -20,4 +20,5 @@
 - XML: For designing Android layouts.
 - Android Studio: IDE for building and testing Android applications.
 
-  **Screenshots will be updated soon!!**
+
+### **Screenshots will be updated soon!!**
