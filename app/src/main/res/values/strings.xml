@@ -1,0 +1,6 @@
+
+    <resources>
+        <string name="app_name">login screen_xml</string>
+        <string name="edit_text_hint"> <font color="#FFFFFF">or </font><font color="#2196F3">Forgot Password</font></string>
+        <string name="signup"><font color="#FFFFFF">Don\'t have an account yet?</font> <font color="#2196F3"><b>Sign Up</b></font></string>
+    </resources>
