@@ -21,4 +21,6 @@
 - Android Studio: IDE for building and testing Android applications.
 
 
-### **Screenshots will be updated soon!!**
+## Output Screenshot:
+![xmloutput](https://github.com/user-attachments/assets/d0302785-c3f6-4eba-aa35-f1fb68198b55)
+
